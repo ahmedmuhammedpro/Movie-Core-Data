@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6AC0CBDFE6E98B2FF38117E3 /* Pods_Movie_Core_Data.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A4F88D1E0C9CAA65B952A69 /* Pods_Movie_Core_Data.framework */; };
+		C81D71B124360CFD00E7079A /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C81D71B024360CFD00E7079A /* DetailsViewController.swift */; };
 		C81E81A2243487E900F12248 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C81E81A1243487E900F12248 /* AppDelegate.swift */; };
 		C81E81A4243487E900F12248 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C81E81A3243487E900F12248 /* SceneDelegate.swift */; };
 		C81E81A6243487E900F12248 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C81E81A5243487E900F12248 /* ViewController.swift */; };
@@ -23,6 +24,7 @@
 /* Begin PBXFileReference section */
 		5A4F88D1E0C9CAA65B952A69 /* Pods_Movie_Core_Data.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Movie_Core_Data.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B21188CB0A74C864FFABDB39 /* Pods-Movie Core Data.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Movie Core Data.release.xcconfig"; path = "Target Support Files/Pods-Movie Core Data/Pods-Movie Core Data.release.xcconfig"; sourceTree = "<group>"; };
+		C81D71B024360CFD00E7079A /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		C81E819E243487E900F12248 /* Movie Core Data.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Movie Core Data.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C81E81A1243487E900F12248 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C81E81A3243487E900F12248 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 				C81E81A3243487E900F12248 /* SceneDelegate.swift */,
 				C81E81A5243487E900F12248 /* ViewController.swift */,
 				C81E81BA2434D80B00F12248 /* AddViewController.swift */,
+				C81D71B024360CFD00E7079A /* DetailsViewController.swift */,
 				C81E81B82434B5E400F12248 /* TableViewCell.swift */,
 				C81E81BC2434DAE900F12248 /* AddProtocol.swift */,
 				C81E81A7243487E900F12248 /* Main.storyboard */,
@@ -221,6 +224,7 @@
 				C81E81B92434B5E400F12248 /* TableViewCell.swift in Sources */,
 				C81E81BD2434DAE900F12248 /* AddProtocol.swift in Sources */,
 				C81E81A6243487E900F12248 /* ViewController.swift in Sources */,
+				C81D71B124360CFD00E7079A /* DetailsViewController.swift in Sources */,
 				C81E81BB2434D80B00F12248 /* AddViewController.swift in Sources */,
 				C81E81AC243487E900F12248 /* Movie_Core_Data.xcdatamodeld in Sources */,
 				C81E81A2243487E900F12248 /* AppDelegate.swift in Sources */,
