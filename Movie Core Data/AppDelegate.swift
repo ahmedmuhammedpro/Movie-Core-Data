@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Movie Core Data
-//
-//  Created by ahmedpro on 4/1/20.
-//  Copyright © 2020 ahmedpro. All rights reserved.
-//
-
 import UIKit
 import CoreData
 
